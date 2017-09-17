@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_a5810b28f66966bb7a7460d43725965825a45ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_e658522e2c0c93786257707bdede84df88f4852c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_bdf84e3f76883afe01858ca95cc11a923dbe9b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_21d2ecc1425c0138eca89fdf86cdf37efd26cded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_6679e3c226e3fa04e638821d2fc3a75cf6378592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_00c3874c76cf3642c467a887015b209849048727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_6d9caa63a410c7aec6692e023cfaf76b6a970638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_6e897a886787bfcecbc30ec548998abab906b81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_d091c90b0b0fcbe2fc9d6800f086fa1832cef6e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_1c18d71d51f549f46998908f82b6d51f7a9a3048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_c2cad952f99808ebca037c93df538301fd9f5063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_aed33c2e7901c444d1ac021b386cb2d13c577f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_260cb9eaeefdfbe7d43e4e57c4de62e76727ea30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_4ba12e3286e4b977b6ddd17b84c9467fe8e944cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_e1fac016d06aa82697c101e7b7f6953d49ce2caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_2026a220e43df1d829fe8ffc7b2d0115a959c1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="E:\New folder\shape-split_v10\ShapeSplit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_bf939bf416e19eaa966a9aef6df63dda334c1b5d.jar" />
+    </item>
+
+</items>

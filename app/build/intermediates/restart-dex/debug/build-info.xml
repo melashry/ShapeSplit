@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="76908884340340"
+    token="2740818342886029263"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="902" />
+    <task
+        name="instant-run-dex"
+        duration="160" />
+    <task
+        name="instant-run-transform"
+        duration="291" />
+    <task
+        name="verifier"
+        duration="28" />
+
+    <artifact
+        location="/Users/etonomick/Documents/Android/ShapeSplit/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="76528241001604"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/etonomick/Documents/Android/ShapeSplit/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="76908884340340"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/etonomick/Documents/Android/ShapeSplit/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
